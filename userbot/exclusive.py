@@ -8,12 +8,12 @@
 
 import os
 
-STICKER_PACK_NAME = os.environ.get("STICKER_PACK_NAME", "Creepy Stickers")
+STICKER_PACK_NAME = os.environ.get("STICKER_PACK_NAME", "Stickers by @xlients")
 
-ANIMATED_STICKER_PNAME = os.environ.get("ANIMATED_STICKER_PNAME", "Creepy Animated Stickers")
+ANIMATED_STICKER_PNAME = os.environ.get("ANIMATED_STICKER_PNAME", "stickers by @xlients")
 
 AUTONAME = os.environ.get("AUTONAME", None)
 
-CHANNEL_LINK = os.environ.get("CHANNEL_LINK", "https://t.me/TechnoAyanBoT/80")
+CHANNEL_LINK = os.environ.get("CHANNEL_LINK", "https://t.me/xlients")
 
 ALIVE_NAME = os.environ.get("ALIVE_NAME", None)
